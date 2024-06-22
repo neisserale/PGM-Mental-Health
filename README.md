@@ -18,4 +18,4 @@ Desarrollar un sistema analítico y de visualización para explorar y comprender
 * Proporcionar inferencias sobre la probabilidad de experimentar problemas de salud mental en base a diferentes factores.
 
 
-![Comunidades detectadas](mental_health.png)
+![Mental Health](mental_health.jpg)
